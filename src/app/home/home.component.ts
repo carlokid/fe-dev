@@ -22,56 +22,17 @@ export class HomeComponent implements OnInit {
     });
   }
 
-  onDogClick() {
+  onBtnClick(type: string) {
     this.modalInfo.toggleDisplayModal(true);
-    this.factsApi.getAnimalFacts('dog').subscribe((resp) => {
+    this.factsApi.getAnimalFacts(type).subscribe((resp) => {
       const modalInfo = {
-        header: "DOG",
+        header: type.toUpperCase(),
         data: resp
       }
       this.modalInfo.setModalInfo(modalInfo);
     }, error => {
-      console.log('onDogClick error', error);
+      console.log('onAnimalClick error', error);
     });    
-  }
-
-  onCatClick() {
-    this.modalInfo.toggleDisplayModal(true);
-    this.factsApi.getAnimalFacts('cat').subscribe((resp) => {
-      const modalInfo = {
-        header: "CAT",
-        data: resp
-      }
-      this.modalInfo.setModalInfo(modalInfo);
-    }, error => {
-      console.log('onCatClick error', error);
-    }); 
-  }
-
-  onHorseClick() {
-    this.modalInfo.toggleDisplayModal(true);
-    this.factsApi.getAnimalFacts('horse').subscribe((resp) => {
-      const modalInfo = {
-        header: "HORSE",
-        data: resp
-      }
-      this.modalInfo.setModalInfo(modalInfo);
-    }, error => {
-      console.log('onHorseClick error', error);
-    }); 
-  }
-
-  onSnailClick() {
-    this.modalInfo.toggleDisplayModal(true);
-    this.factsApi.getAnimalFacts('snail').subscribe((resp) => {
-      const modalInfo = {
-        header: "SNAIL",
-        data: resp
-      }
-      this.modalInfo.setModalInfo(modalInfo);
-    }, error => {
-      console.log('onSnailClick error', error);
-    }); 
   }
 
 }
