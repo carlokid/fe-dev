@@ -12,4 +12,20 @@ export class HomeComponent implements OnInit {
   ngOnInit() {
   }
 
+  onDogClick() {
+    console.log('dog');
+  }
+
+  onCatClick() {
+    console.log('cat');
+  }
+
+  onHorseClick() {
+    console.log('horse');
+  }
+
+  onSnailClick() {
+    console.log('snail');
+  }
+
 }

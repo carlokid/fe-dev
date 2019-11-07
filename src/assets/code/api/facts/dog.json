@@ -1,0 +1,437 @@
+{
+    "all": [
+        {
+            "_id": "5b7a02562048fd0014e9d872",
+            "text": "Dogs can vary in size from a 36 inch (150+ lb.) Great Dane to a 2 lb. Chihuahua.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a02e32048fd0014e9d87a",
+            "text": "Former US President Teddy Roosevelt had a Pit Bull named Pete.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a02ea2048fd0014e9d87b",
+            "text": "An adult dog has 42 teeth.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a03012048fd0014e9d87e",
+            "text": "It was recently discovered that dogs do see in color, just not as vivid as we see.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a031a2048fd0014e9d882",
+            "text": "The Basenji is the only barkless dog in the world.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a03202048fd0014e9d883",
+            "text": "Greyhounds can reach a speed of up to 45 miles per hour.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a03272048fd0014e9d884",
+            "text": "When a puppy is born, he is blind, deaf, and toothless.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d7cccf4b960d5eb02ec7",
+            "text": "In total there is said to be around 400 million dogs in the world.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": [
+                {
+                    "user": "5b199205ce456e001424256c"
+                }
+            ]
+        },
+        {
+            "_id": "5b12d7ddcf4b960d5eb02ecb",
+            "text": "There are hundreds of different breeds of dogs.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d7f2cf4b960d5eb02ed0",
+            "text": "Dog have superior hearing than humans, capable of hearing sounds at four times the distance.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": [
+                {
+                    "user": "5b199205ce456e001424256c"
+                }
+            ]
+        },
+        {
+            "_id": "5b12d800cf4b960d5eb02ed2",
+            "text": "The average life span for a dog is around 10 to 14 years.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a02622048fd0014e9d874",
+            "text": "About 1/3 of the dogs that are surrendered to animal shelters are purebred dogs.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d7d0cf4b960d5eb02ec8",
+            "text": "The domestic dog has been one of the most popular working and companion animals throughout human history.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d7d5cf4b960d5eb02ec9",
+            "text": "Dogs perform many useful tasks for humans including hunting, farm work and security as well as assisting those with disabilities such as the blind.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d7d9cf4b960d5eb02eca",
+            "text": "Although experts often disagree, there is scientific evidence which shows that the domestication of dogs could have occurred more than 15,000 years ago.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d7e1cf4b960d5eb02ecc",
+            "text": "Examples of these breeds include: Bulldog, German Shepherd, Collie, Golden Retriever, St Bernard, Greyhound, Bloodhound, Chihuahua, Labrador, Great Dane, Rottweiler, Boxer and Cocker Spaniel.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d7e6cf4b960d5eb02ecd",
+            "text": "The most popular breed of dog in the world by registered ownership is the Labrador. With their gentle nature, obedience, intelligence and near limitless energy, Labradors make for excellent family pets and reliable workers. They often assist police and are a common choice as guide dogs.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d7e9cf4b960d5eb02ece",
+            "text": "Dogs have formed such a strong bond as pets, workers and companions to humans that they have earned the nickname \"man's best friend\".",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d7edcf4b960d5eb02ecf",
+            "text": "Humans help train various dog breeds to enter in competitions such as breed shows, agility and obedience contests, racing and sled pulling.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d815cf4b960d5eb02ed3",
+            "text": "Domestic dogs are omnivores, they feed on a variety of foods including grains, vegetables and meats.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": [
+                {
+                    "user": "587288f6e6f85e64ae1c7ef7"
+                }
+            ]
+        },
+        {
+            "_id": "5b7a02442048fd0014e9d870",
+            "text": "There are more than 150 dog breeds, divided into 8 classes: sporting, hound, working, terrier, toy, non-sporting, herding, and miscellaneous.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a02502048fd0014e9d871",
+            "text": "According to a recent survey, the most popular name for a dog is Max. Other popular names include Molly, Sam, Zach, and Maggie.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a025b2048fd0014e9d873",
+            "text": "Puppies and kittens can be adopted as early as 8 weeks of age.  Until then, they should stay with their moms and littermates.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a02682048fd0014e9d875",
+            "text": "Contrary to popular belief, dogs do not sweat by salivating. They sweat through the pads of their feet.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a02932048fd0014e9d877",
+            "text": "Dogs have over 200 million scent receptors in their noses (we have only 5 million) so it’s important that their food smells good and tastes good.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a029e2048fd0014e9d878",
+            "text": "The term “dog days” has nothing to do with dogs. It dates back to Roman times, when it was believed that Sirius, the Dog Star, added its heat to that of the sun from July 3 to August 11, creating exceptionally high temperatures.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a02d92048fd0014e9d879",
+            "text": "Toto’s role in The Wizard of Oz was played by a female Cairn Terrier named Terry, and the Taco Bell dog is a female Chihuahua named Gidget.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a02f12048fd0014e9d87c",
+            "text": "If a dog isn’t spayed or neutered, a female dog, her mate and their offspring can product 67,000 dogs in 6 years.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a02f82048fd0014e9d87d",
+            "text": "The most successful mountain rescue dog ever was a St Bernard named Barry, who lived during the early 1800’s and saved 40 lives.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a03082048fd0014e9d87f",
+            "text": "Nearly all but two breeds of dogs have pink tongues: the Chow Chow and the Shar-pei both have black tongues.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a030f2048fd0014e9d880",
+            "text": "The Poodle haircut was originally meant to improve the dog’s swimming abilities as a retriever, with the pom-poms left in place to warm their joints.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a03142048fd0014e9d881",
+            "text": "The top five favorite breeds of dogs in the US are: Labrador Retriever, Golden Retriever, German Shepherd, Beagle, and Dachshund.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a032e2048fd0014e9d885",
+            "text": "All dogs, regardless of breed, are direct descendants of wolves and technically of the same species.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a03382048fd0014e9d886",
+            "text": "A dog’s whiskers — found on the muzzle, above the eyes and below the jaws — are technically known as vibrissae. They are touch-sensitive hairs than actually sense minute changes in airflow.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a03432048fd0014e9d887",
+            "text": "Dogs are capable of locating the source of a sound in 6/100ths of a second by using their swiveling ears like radar dishes.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        }
+    ],
+    "me": []
+}

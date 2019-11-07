@@ -1,0 +1,725 @@
+{
+    "all": [
+        {
+            "_id": "5b12d6dacf4b960d5eb02ead",
+            "text": "Horses have around 205 bones in their skeleton.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d6f2cf4b960d5eb02eb0",
+            "text": "Horses have bigger eyes than any other mammal that lives on land.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d6dfcf4b960d5eb02eae",
+            "text": "Horses have been domesticated for over 5000 years.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a059d2048fd0014e9d89b",
+            "text": "A horse's teeth take up a larger amount of space in their head than their brain.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a05f82048fd0014e9d89c",
+            "text": "Horse hooves are made from the same protein that comprises human hair and fingernails.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a06802048fd0014e9d8a1",
+            "text": "Most horses gallop at around 44 kph or 27 mph.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a070b2048fd0014e9d8a8",
+            "text": "An adult horse’s brain weights 22 oz, about half that of a human.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a07272048fd0014e9d8aa",
+            "text": "Horses cannot vomit.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a07552048fd0014e9d8ac",
+            "text": "All horses are grazers.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a076c2048fd0014e9d8ae",
+            "text": "The first cloned horse was a Haflinger mare in Italy in 2003.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a07742048fd0014e9d8af",
+            "text": "Horses like sweet flavors and will usually reject anything sour or bitter.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a07b62048fd0014e9d8b3",
+            "text": "Horses produce approximately 10 gallons of saliva a day.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a08692048fd0014e9d8b6",
+            "text": "The average horse's heart weighs approximately 9 or 10 pounds.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a089b2048fd0014e9d8bb",
+            "text": "Horses drink at least 25 gallons of water a day (more in hotter climates).",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a08ab2048fd0014e9d8bc",
+            "text": "It takes 9-12 months to re-grow an entire horse hoof.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a08b92048fd0014e9d8bd",
+            "text": "Horses with pink skin can get a sunburn.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a08cb2048fd0014e9d8bf",
+            "text": "Horses have 16 muscles in each ear, allowing them to rotate their ears 180 degrees.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a08f32048fd0014e9d8c0",
+            "text": "If a horse has a red ribbon on it’s tail, it kicks.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a09092048fd0014e9d8c2",
+            "text": "Stallions don't lead herds, the most dominate female does.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b1186a73bc85f0b2eb98c25",
+            "text": "Horses cannot get cavities.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d6c0cf4b960d5eb02ea9",
+            "text": "Horses can sleep both lying down and standing up.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d6cacf4b960d5eb02eaa",
+            "text": "Horses can run shortly after birth.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d6d0cf4b960d5eb02eab",
+            "text": "Domestic horses have a lifespan of around 25 years.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d6d5cf4b960d5eb02eac",
+            "text": "A 19th century horse named ‘Old Billy’ is said to have lived 62 years.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d6eacf4b960d5eb02eaf",
+            "text": "Horses are herbivores.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d6f9cf4b960d5eb02eb1",
+            "text": "Because horse’s eyes are on the side of their head they are capable of seeing nearly 360 degrees at one time.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d701cf4b960d5eb02eb2",
+            "text": "Horses gallop at around 44 kph (27 mph).",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d707cf4b960d5eb02eb3",
+            "text": "The fastest recorded sprinting speed of a horse was 88 kph (55 mph).",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d714cf4b960d5eb02eb6",
+            "text": "A male horse is called a stallion.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d717cf4b960d5eb02eb7",
+            "text": "A female horse is called a mare.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d71ccf4b960d5eb02eb8",
+            "text": "A young male horse is called a colt.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d720cf4b960d5eb02eb9",
+            "text": "A young female horse is called a filly.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d729cf4b960d5eb02eba",
+            "text": "Ponies are small horses.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d710cf4b960d5eb02eb5",
+            "text": "Scientists believe that horses have evolved over the past 50 million years from much smaller creatures.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a05722048fd0014e9d899",
+            "text": "When horses look like they’re laughing, they’re actually engaging in a special nose-enhancing technique known as “flehmen,” to determine whether a smell is good or bad.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a057c2048fd0014e9d89a",
+            "text": "At one time people thought horses were colorblind. They’re not, though they are better at seeing yellows and greens than purples and violets.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a06012048fd0014e9d89d",
+            "text": "The horse trailer (“horse box”) was invented by Lord George Bentinck, a U.K. man who needed a more effective transport for getting his six horses from one racetrack to another.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a06142048fd0014e9d89e",
+            "text": "In 1872, Leland Stanford (1824-1893) made a bet that at some point in the gallop all four of a horse’s legs are off the ground at the same time. Eadweard Muybridge (1830-1904) proved him right by using a series of 24 cameras and photographing a racehorse named Sallie Gardner.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a061e2048fd0014e9d89f",
+            "text": "Horses are more secure and comfortable when trailering if they can face the rear, but they prefer openings.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a064b2048fd0014e9d8a0",
+            "text": "From 1867 to 1920, the number of horses shot up from 7.8 million to 25 million. Experts believe this was due to the rise of the automobile.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a06b22048fd0014e9d8a2",
+            "text": "The Przewalski’s horse is the only truly wild horse species still in existence. The only wild population is in Mongolia. There are however numerous populations across the world of feral horses e.g. mustangs in North America.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a06be2048fd0014e9d8a3",
+            "text": "Horses use their ears, eyes and nostrils to express their mood. They also communicate their feelings through facial expressions.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a06cf2048fd0014e9d8a4",
+            "text": "Horses will not lie down simultaneously because at least one will act as a look-out to alert its companions of potential dangers.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a06d72048fd0014e9d8a5",
+            "text": "Vocalizations are highly important to horses. Examples: Whinnying and neighing sounds are elicited when horses meet or leave each other. Stallions (adult male horses) perform loud roars as mating calls, and all horses will use snorts to alert others of potential danger.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a06e42048fd0014e9d8a6",
+            "text": "Approximately 4.6 million Americans work in the horse industry in one way or another. The US horse industry has an economic effect of $39 billion annually on just nine million American horses.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a06ee2048fd0014e9d8a7",
+            "text": "There are approximately 58 million horses in the world and the vast majority are cared for by humans.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a07152048fd0014e9d8a9",
+            "text": "Horses still hold a place of honor in many cultures, often linked to heroic exploits in war, China being one of those countries.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a07442048fd0014e9d8ab",
+            "text": "There is only one species of domestic horse, but around 400 different breeds that specialize in everything from pulling wagons to racing.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a07622048fd0014e9d8ad",
+            "text": "A horse can see better at night than a human. However, it takes a horse's eyes longer to adjust from light to dark and from dark to light than a human's.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a07812048fd0014e9d8b0",
+            "text": "Wild horses generally gather in groups of 3 to 20 animals. A stallion (mature male) leads the group, which consists of mares (females) and young foals. When young males become colts, at around two years of age, the stallion drives them away. The colts then roam with other young males until they can gather their own band of females.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a078d2048fd0014e9d8b1",
+            "text": "Most of the time, wherever a horse's ear is pointing is where the horse is looking with the eye on the same side.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a07a32048fd0014e9d8b2",
+            "text": "If a horse's ears are pointing in different directions, the horse is looking at two different things at the same time.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a07c22048fd0014e9d8b4",
+            "text": "On the underside of a horse's hoof is a triangular shaped area called the “frog,\" which acts as a shock absorber for a horse's leg, and also helps to pump blood back up the leg.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a07d92048fd0014e9d8b5",
+            "text": "Horses height is measured in units known as \"hands.\" One hand is equal to four inches. The tallest horse on record was a Shire named Sampson. He was 21.2 hands (7 feet, 2 inches) tall. He was born in 1846 in Toddington Mills, England.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a08702048fd0014e9d8b7",
+            "text": "The record for the longest jump over water is held by a horse named Something who jumped 27 feet, 6 and 3/4 inches on April 25, 1975 in Johannesburg, South Africa. He was ridden by Andre Ferreira.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a08792048fd0014e9d8b8",
+            "text": "The record for the highest jump made by a horse is held by a horse named Huaso who jumped 8 feet, 1 and 1/4 inches on February 5th, 1949 in Vina del Mar, Chile. He was ridden by Captain Alberto Larraguibel.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a08872048fd0014e9d8b9",
+            "text": "Scientists believe that the first known ancestor of the horse lived about 50 million years ago. This prehistoric horse is called Eohippus and had four padded toes on the front legs and three padded toes on the back legs.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a08932048fd0014e9d8ba",
+            "text": "Horses with typical anatomy are \"obligate nasal breathers\" which means they must breathe through their nostrils and cannot breathe through their mouths.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a08c42048fd0014e9d8be",
+            "text": "You can tell if a horse is cold by feeling behind their ears. If that area is cold, so is the horse.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a08fc2048fd0014e9d8c1",
+            "text": "Horses are social animals and will get lonely if kept alone, and they will mourn the passing of a companion.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        }
+    ],
+    "me": []
+}

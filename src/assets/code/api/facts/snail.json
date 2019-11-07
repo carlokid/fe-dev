@@ -1,0 +1,353 @@
+{
+    "all": [
+        {
+            "_id": "5b7a049e2048fd0014e9d894",
+            "text": "The escargot is a delicacy consisting of cooked land snails.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a04ba2048fd0014e9d895",
+            "text": "Several species of terrestrial snails have hairy shells, especially the juveniles.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d68ecf4b960d5eb02ea7",
+            "text": "Snail is a common name for gastropod molluscs that can be split into three groups, land snails, sea snails and freshwater snails.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d764cf4b960d5eb02ebc",
+            "text": "Snail-like animals that do not have a shell are usually called slugs.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d776cf4b960d5eb02ebf",
+            "text": "The giant African land snail grows to about 38 cm (15 in) and weigh 1 kg (2lb).",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d78ccf4b960d5eb02ec3",
+            "text": "Depending on the species snails can live 5 - 25 years.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d75acf4b960d5eb02ebb",
+            "text": "Snails can have lungs or gills depending on the species and their habitat. Some marine snails actually can have lungs and some land based snails can have gills.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d76bcf4b960d5eb02ebd",
+            "text": "Most snail species have a ribbon-like tongue called a radula that contains thousands of microscopic teeth. The radula works like a file, ripping food up into tiny pieces.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d770cf4b960d5eb02ebe",
+            "text": "The majority of snails are herbivores eating vegetation such as leaves, stems and flowers, some larger species and marine based species can be predatory omnivores or even carnivores.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d77ccf4b960d5eb02ec0",
+            "text": "The largest living sea snail species is the Syrinx aruanus who's shell can reach 90 cm (35 in) in length and the snail can weigh up to 18 kg (40lbs)!",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d783cf4b960d5eb02ec1",
+            "text": "Common garden snails have a top speed of 45 m (50 yards) per hour. Making the snail one of the slowest creatures on Earth.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d787cf4b960d5eb02ec2",
+            "text": "As they move along snails leave behind a trail of mucus which acts as a lubricant to reduce surface friction. This also allows the snail to move along upside down.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d792cf4b960d5eb02ec4",
+            "text": "The common garden snail is regarded as an agricultural and garden pest as it eats the leaves and stems of crops.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d795cf4b960d5eb02ec5",
+            "text": "The snail is a delicacy in French cuisine called escargot. The snail is also eaten in many other countries of the world, often as a fried meal.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b12d7a1cf4b960d5eb02ec6",
+            "text": "In English, the expression \"a snail's pace\" is a term used to describe a slow, inefficient process and \"snail mail\" is now commonly used when referring to sending regular mail rather than that sent by email.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a039c2048fd0014e9d888",
+            "text": "There may be as many 150,000 species of gastropods, and they live in almost all habitats, from deep ocean trenches to deserts.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a03cc2048fd0014e9d889",
+            "text": "Slugs and snails are mollusks, putting them in the same category as oysters, clams, and mussels.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a03e52048fd0014e9d88a",
+            "text": "One researcher argues that the myth of Cupid’s arrow might come from the mating rituals of Helix aspersa, a garden snail. Some of these snails shoot “love darts” at the object of their affections, containing mucus that increases the chances of their sperm surviving.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a03f62048fd0014e9d88b",
+            "text": "Researchers from Boston Children’s Hospital and MIT have developed an adhesive that mimics the stickiness of a slug’s slime, the same gel that allows marine snails to cling to rocks in the surf.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a04072048fd0014e9d88c",
+            "text": "Some studies have found that snail mucus might be useful to help wounds heal, possibly by triggering an immune response that helps skin cells regenerate.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a04182048fd0014e9d88d",
+            "text": "Some freshwater snails do not breathe underwater through gills, but rely on a type of lung, floating to the surface each time they need to breathe.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a042b2048fd0014e9d88e",
+            "text": "Some snails have both gills and a lung. The apple snail has a siphon, a breathing tube that it can stretch up to the water’s surface to breathe without exposing itself to predators.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a04372048fd0014e9d88f",
+            "text": "The giant triton, Charonia tritonis, can grow up to a foot and a half long. It’s also an aggressive predator with a keen sense of smell, and it loves to eat starfish, paralyzing them with venomous saliva.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a04422048fd0014e9d890",
+            "text": "The sea snail was considered a symbol of rebirth and joy for Mesoamericans, who believed the whirled shape of its shell represented the circle of life.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a045d2048fd0014e9d891",
+            "text": "Conches are very large sea snails. People have used shell trumpets as musical instruments for millennia. Shell trumpets play an important part in the mythology of ancient Greece, India, and Hawaii.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a04672048fd0014e9d892",
+            "text": "Some garden snails prefer eating from the same food source as another snail, even when there is other food readily available nearby.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a04882048fd0014e9d893",
+            "text": "Hélène van Zuylen, a 19th-century French socialite and writer, completed the 1898 Paris–Amsterdam–Paris trail, reportedly becoming the first woman to compete in an international car race. Her husband, the president of the Automobile Club de France, raced under the name “Escargot.”",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a04d62048fd0014e9d896",
+            "text": "Patricia Highsmith, whose novels Strangers on a Train and The Talented Mr. Ripley were adapted into now-famous films, reportedly preferred mollusks to people. She kept around 300 snails as pets, and they appear in several of her literary works.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        },
+        {
+            "_id": "5b7a05012048fd0014e9d897",
+            "text": "The recently discovered Angustopila dominikae may be the smallest land snail ever found, with a shell just 0.03 inches tall. If you lined 10 of them up in a row, they could all march through the eye of a needle together.",
+            "user": {
+                "_id": "5a9ac18c7478810ea6c06381",
+                "name": {
+                    "first": "Alex",
+                    "last": "Wohlbruck"
+                }
+            },
+            "upvotes": []
+        }
+    ],
+    "me": []
+}
