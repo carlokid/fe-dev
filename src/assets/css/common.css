@@ -1,0 +1,9 @@
+.btn-menu {
+    font-size: 20px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: bold !important;
+    width: 300px;
+    padding: 20px !important;
+    margin: 0px 20px 20px 20px;
+}
