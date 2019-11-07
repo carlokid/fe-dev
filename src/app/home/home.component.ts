@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { ModalInfoService } from '../shared/modal-info/modal-info.service';
 
 @Component({
   selector: 'app-home',
@@ -7,25 +8,50 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
-  constructor() { }
+  public displayInfoModal: boolean;
+
+  constructor(private modalInfo: ModalInfoService) { }
 
   ngOnInit() {
+    this.modalInfo.displayModal$.subscribe(value => {
+      this.displayInfoModal = value;
+    });
   }
 
   onDogClick() {
-    console.log('dog');
+    this.modalInfo.toggleDisplayModal(true);
+
+    const modalInfo = {
+      header: "DOG"
+    }
+    this.modalInfo.setModalInfo(modalInfo);
   }
 
   onCatClick() {
-    console.log('cat');
+    this.modalInfo.toggleDisplayModal(true);
+
+    const modalInfo = {
+      header: "CAT"
+    }
+    this.modalInfo.setModalInfo(modalInfo);
   }
 
   onHorseClick() {
-    console.log('horse');
+    this.modalInfo.toggleDisplayModal(true);
+
+    const modalInfo = {
+      header: "HORSE"
+    }
+    this.modalInfo.setModalInfo(modalInfo);
   }
 
   onSnailClick() {
-    console.log('snail');
+    this.modalInfo.toggleDisplayModal(true);
+
+    const modalInfo = {
+      header: "SNAIL"
+    }
+    this.modalInfo.setModalInfo(modalInfo);
   }
 
 }
