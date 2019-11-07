@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ModalInfoService } from '../shared/modal-info/modal-info.service';
+import { FactsApiService } from '../facts-api/facts-api.service';
 
 @Component({
   selector: 'app-home',
@@ -10,7 +11,10 @@ export class HomeComponent implements OnInit {
 
   public displayInfoModal: boolean;
 
-  constructor(private modalInfo: ModalInfoService) { }
+  constructor(
+    private modalInfo: ModalInfoService,
+    private factsApi: FactsApiService
+  ) { }
 
   ngOnInit() {
     this.modalInfo.displayModal$.subscribe(value => {
@@ -20,38 +24,54 @@ export class HomeComponent implements OnInit {
 
   onDogClick() {
     this.modalInfo.toggleDisplayModal(true);
-
-    const modalInfo = {
-      header: "DOG"
-    }
-    this.modalInfo.setModalInfo(modalInfo);
+    this.factsApi.getAnimalFacts('dog').subscribe((resp) => {
+      const modalInfo = {
+        header: "DOG",
+        data: resp
+      }
+      this.modalInfo.setModalInfo(modalInfo);
+    }, error => {
+      console.log('onDogClick error', error);
+    });    
   }
 
   onCatClick() {
     this.modalInfo.toggleDisplayModal(true);
-
-    const modalInfo = {
-      header: "CAT"
-    }
-    this.modalInfo.setModalInfo(modalInfo);
+    this.factsApi.getAnimalFacts('cat').subscribe((resp) => {
+      const modalInfo = {
+        header: "CAT",
+        data: resp
+      }
+      this.modalInfo.setModalInfo(modalInfo);
+    }, error => {
+      console.log('onCatClick error', error);
+    }); 
   }
 
   onHorseClick() {
     this.modalInfo.toggleDisplayModal(true);
-
-    const modalInfo = {
-      header: "HORSE"
-    }
-    this.modalInfo.setModalInfo(modalInfo);
+    this.factsApi.getAnimalFacts('horse').subscribe((resp) => {
+      const modalInfo = {
+        header: "HORSE",
+        data: resp
+      }
+      this.modalInfo.setModalInfo(modalInfo);
+    }, error => {
+      console.log('onHorseClick error', error);
+    }); 
   }
 
   onSnailClick() {
     this.modalInfo.toggleDisplayModal(true);
-
-    const modalInfo = {
-      header: "SNAIL"
-    }
-    this.modalInfo.setModalInfo(modalInfo);
+    this.factsApi.getAnimalFacts('snail').subscribe((resp) => {
+      const modalInfo = {
+        header: "SNAIL",
+        data: resp
+      }
+      this.modalInfo.setModalInfo(modalInfo);
+    }, error => {
+      console.log('onSnailClick error', error);
+    }); 
   }
 
 }

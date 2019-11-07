@@ -9,13 +9,16 @@ import { ModalInfoService } from './modal-info.service';
 export class ModalInfoComponent implements OnInit {
 
   header: string;
-  data: any;
+  data: any = {
+    all: []
+  };
 
   constructor(private modalInfo: ModalInfoService) { }
 
   ngOnInit() {
     this.modalInfo.modalInfo$.subscribe((value: any) => {
       this.header = value.header;
+      this.data = value.data;
     });
   }
 
