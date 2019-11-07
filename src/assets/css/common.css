@@ -1,9 +1,40 @@
+.main-panel {
+    position: relative;
+    max-width: 1000px;
+    min-width: 338px;
+    padding: 0px;
+}
+
+.header {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 45px;
+    padding-left: 10px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    color: black;
+    font-weight: bold;
+    line-height: 50px;
+    text-align: center;
+}
+
 .btn-menu {
-    font-size: 20px;
+    font-size: 25px !important;
     font-family: sans-serif;
     color: white;
     font-weight: bold !important;
     width: 300px;
     padding: 20px !important;
     margin: 0px 20px 20px 20px;
+}
+
+@media only screen and (min-width: 492px) {
+    .header {
+        text-align: center;
+        font-size: 40px;
+        padding-left: 90px;
+    }
+    .btn-menu {
+        font-size: 20px !important;
+    }
 }
